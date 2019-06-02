@@ -10,4 +10,4 @@ Thank you for visiting.
 
 ### Contact me
 
-[contact](mailto:livenlearnaday@gmail.com)
+[contact](mailto:contactlivenlearnaday@gmail.com)
