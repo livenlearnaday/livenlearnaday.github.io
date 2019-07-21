@@ -11,17 +11,17 @@ categories:
   - EN
   - android
 ---
+NumpadKD Application Privacy Policy
 
-NumpadKD
-NumpadKD Application
 
 Purpose of application
+
 
 Minimum screen-size requirement
 
-NumpadKD Privacy Policy
-Purpose of application
 
+
+Purpose of application
 The application is designed to collect keystroke dynamics data from the users while using the application only.
 Minimum screen-size requirement
 
