@@ -13,7 +13,7 @@ categories:
 ---
 **Purpose of application**
 
-The application is designed to collect keystroke dynamics data from the users while using the application only.
+The application is designed to collect keystroke dynamics data from the user while using the application only.
 
 
 
@@ -29,7 +29,7 @@ NumpadKD app is a free application.
 
 This application/service is provided by the developer at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. 
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application/service. 
 
 If you choose to use my application/service, then you agree to the collection and use of information in relation to this policy. 
 
@@ -40,7 +40,7 @@ This application/service only collects information stated in the _Information Co
 
 **Information Collection and Use**
 
-It is possible that in the future, the user may be required to provide certain personally identifiable information, including but not limited to keystrokes dynamics that includes dwell time, flight times, finger size, finger pressure, button coordinates on the user's screen and the buttons' touch coordinates. The information requested will be retained on your device and is not transferred to the developer in any way. 
+It is possible that in the future, the user may be required to provide certain personally identifiable information, including but not limited to keystrokes dynamics that includes dwell time, flight times, finger size, finger pressure, button coordinates on the user's screen and the buttons' touch coordinates. The information requested will be retained on your device only. 
 
 
 The application collects “dwell time”, “flight time”, “finger pressure”, “finger area”, buttons’ width or diameter, buttons coordinates on the user’s device and touch coordinates of the buttons. 
@@ -59,7 +59,7 @@ Button coordinates - The x and y coordinates of the button in the application on
 Touch coordinates  - The x and y positions of each button touch on the user’s screen.
 
 
-The app does use third party services that may collect information used to identify you. 
+As the application is part og google play store and google play may use third party services that may collect information used to identify you. 
 
 Link to privacy policy of third party service providers used by the app 
 
@@ -69,16 +69,8 @@ Link to privacy policy of third party service providers used by the app
 **Log Data**
 
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. 
+In the normal usage of the application/service, in a case of an error in the app, the error data and information (through third party products) is collected on the phone as Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app upon usage, the time and date of your use of the application/service, and other statistics. 
 
-
-**Cookies**
-
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. 
-
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
 
 
 **Service Providers**
@@ -86,11 +78,11 @@ This Service does not use these “cookies” explicitly. However, the app may u
 I may employ third-party companies and individuals due to the following reasons: 
 
     To facilitate our Service;
-    To provide the Service on our behalf;
+    To provide the application/service on our behalf;
     To perform Service-related services; or
     To assist us in analyzing how our Service is used.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
+I want to inform users of this application/service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
 
 
 **Security**
@@ -102,7 +94,7 @@ I value your trust in providing us with your Personal Information, thus we are s
 **Links to Other Sites**
 
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
+This application/service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
 
 
 **Children’s Privacy**
