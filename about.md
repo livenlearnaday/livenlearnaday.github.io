@@ -7,8 +7,8 @@ published: true
 
 ### More Information
 
-Thank you for visiting.
+Thank you for visiting my site.
 
 ### Contact me
 
-[contact](mailto:livenlearnaday@gmail.com)
+Please contact me at livenlearnaday@gmail.com
