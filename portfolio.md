@@ -7,7 +7,9 @@ published: true
 
 ### Android projects
 
-[NumpadKD](portfolio/android_projects/NumpadKD.md "NumpadKD")
+[NumpadKD (Published)](portfolio/android_projects/NumpadKD.md "NumpadKD")
+
+[NumpadKD (Published)]{{ site.baseurl }}{% portfolio/android_projects/NumpadKD.md "NumpadKD (Published)"%}
 
 [NumpadKD (Published)]({% portfolio/android_projects NumpadKD %})
 
