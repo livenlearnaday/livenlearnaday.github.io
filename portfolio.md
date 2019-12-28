@@ -8,7 +8,9 @@ published: true
 ### Android projects
 
 
--NumpadKD (Published)
+-NumpadKD (Published){% link portfolio/android_projects/NumpadKD.md "NumpadKD%}
+
+[NumpadKD (Published)]({{ site.baseurl }}{% link portfolio/android_projects/NumpadKD.md %})
 
 -Random Number Game (Pending)
 
