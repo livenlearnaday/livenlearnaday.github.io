@@ -7,6 +7,11 @@ published: true
 
 ### Android projects
 
+
+-NumpadKD (Published)
+
+-Random Number Game (Pending)
+
 [NumpadKD (Published)](portfolio/android_projects "NumpadKD (Published)")
 
 [NumpadKD (Published)](portfolio/android_projects/NumpadKD.md "NumpadKD")
