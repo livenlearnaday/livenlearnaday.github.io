@@ -12,8 +12,4 @@ To be updated.
 ### Web projects:
 
 
-[External link](https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html "FCC_tribute_page"){:target="_blank"}
-
-
-[External link](https://rubygems.org/gems/jekyll-target-blank){:target="_blank"}
-
+[freeCodeCamp.org Tribute Page](https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html "FCC_tribute_page"){:target="_blank"}
