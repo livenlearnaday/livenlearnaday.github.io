@@ -7,9 +7,9 @@ published: true
 
 ### Android projects
 
-{{ site.baseurl }}{% portfolio/android_projects/NumpadKD.md %}  (Published)
+[NumpadKD]{{ site.baseurl }}{% portfolio/android_projects/NumpadKD.md %}  (Published)
 
-{{ site.baseurl }}{% portfolio/android_projects/RandomNumberGame.md %}  (Pending)
+[Random Number Game]{{ site.baseurl }}{% portfolio/android_projects/RandomNumberGame.md %}  (Pending)
 
 
 ### Web projects:
