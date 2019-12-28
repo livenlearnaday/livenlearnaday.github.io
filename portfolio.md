@@ -8,7 +8,7 @@ published: true
 ### Android projects
 
 
-[NumpadKD (Published)]({{ site.baseurl }}{% portfolio/android_projects/NumpadKD.md %})
+[NumpadKD (Published)]({% portfolio/android_projects NumpadKD %})
 
 [Random Number Game (Pending)]{{ site.baseurl }}{% portfolio/android_projects/RandomNumberGame.md %}
 
