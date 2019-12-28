@@ -5,12 +5,13 @@ permalink: /portfolio/
 published: true
 ---
 
+
 ### Android projects
 
 
-[NumpadKD (Published)](% link portfolio/android_projects/NumpadKD.md)
+[NumpadKD (Published)](https://livenlearnaday.github.io/portfolio/android_projects/NumpadKD.md){:target="_blank"}
 
-[Random Number Game (Pending)](% link portfolio/android_projects/RandomNumberGame.md)
+[Random Number Game (Pending)](https://livenlearnaday.github.io/portfolio/android_projects/RandomNumberGame.md){:target="_blank"}
 
 
 
