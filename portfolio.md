@@ -14,4 +14,4 @@ To be updated.
 
 
 
--[freeCodeCamp.org tribute page project](https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html "FCC_tribute_page"){:target="_blank"}
+-[freeCodeCamp.org tribute page project]{{ site.baseurl }}{% link portfolio/web_projects/FCC_tribute_page.html  %}
