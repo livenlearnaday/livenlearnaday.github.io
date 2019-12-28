@@ -8,9 +8,9 @@ published: true
 ### Android projects
 
 
-[NumpadKD (Published)](https://livenlearnaday.github.io/portfolio/android_projects/NumpadKD.html){:target="_blank"}
+[NumpadKD (Published)](% link portfolio/android_projects/NumpadKD.md)
 
-[Random Number Game (Pending)](https://livenlearnaday.github.io/portfolio/android_projects/RandomNumberGame.html){:target="_blank"}
+[Random Number Game (Pending)](% link portfolio/android_projects/RandomNumberGame.md)
 
 
 
