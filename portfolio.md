@@ -12,6 +12,5 @@ To be updated.
 ### Web projects:
 
 
+[freeCodeCamp tribute page](https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html "FCC_tribute_page")
 
-
--[freeCodeCamp.org tribute page project]{{ site.baseurl }}{% link portfolio/web_projects/FCC_tribute_page.html  %}
