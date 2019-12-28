@@ -2,12 +2,13 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+published: true
 ---
 
-### Completed projects
+### Android projects
 
 To be updated.
 
-### Ongoing projects:
+### Web projects:
 
-To be updated.
+-[freeCodeCamp.org tribute page project](https://github.com/livenlearnaday/portfolio-public/blob/master/FCC_tribute_page.html "FCC_tribute_page")
