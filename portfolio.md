@@ -12,15 +12,7 @@ published: true
 
 -Random Number Game (Pending)
 
-[NumpadKD (Published)](portfolio/android_projects "NumpadKD (Published)")
 
-[NumpadKD (Published)](portfolio/android_projects/NumpadKD.md "NumpadKD")
-
-[NumpadKD (Published)]{{ site.baseurl }}{% portfolio/android_projects/NumpadKD.md "NumpadKD (Published)"%}
-
-[NumpadKD (Published)]({% portfolio/android_projects NumpadKD %})
-
-[Random Number Game (Pending)]{{ site.baseurl }}{% portfolio/android_projects/RandomNumberGame.md %}
 
 
 ### Web projects:
