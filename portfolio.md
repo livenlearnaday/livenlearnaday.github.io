@@ -7,6 +7,7 @@ published: true
 
 ### Android projects
 
+[NumpadKD](portfolio/android_projects/NumpadKD.md "NumpadKD")
 
 [NumpadKD (Published)]({% portfolio/android_projects NumpadKD %})
 
