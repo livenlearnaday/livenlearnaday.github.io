@@ -22,11 +22,13 @@ The copy buttons are not working as yet.
 {%- capture code -%}
 implementation 'com.android.volley:volley:1.1.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='maven' %} 
+{% include code_snippet.md code=code language='' %} 
+
+
 {%- capture code -%}
 implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='maven' %} 
+{% include code_snippet.md code=code language='' %} 
 
 
 ### For image handling
@@ -36,7 +38,8 @@ implementation 'com.squareup.picasso:picasso:2.71828'
 {%- endcapture -%}
 {% include code_snippet.md code=code language='maven' %} 
 
+
 {%- capture code -%}
 implementation 'com.github.bumptech.glide:glide:4.11.0'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='maven' %} 
+{% include code_snippet.md code=code language='' %} 
