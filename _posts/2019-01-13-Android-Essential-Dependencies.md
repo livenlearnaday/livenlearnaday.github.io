@@ -1,5 +1,4 @@
 ---
-
 published: false
 layout: post
 description: A collection of android essential dependencies.
@@ -21,5 +20,4 @@ const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
-{% include code_snippet.md code=code language='' %}
-
+{% includes code_snippet.md code=code language='' %}
