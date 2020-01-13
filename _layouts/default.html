@@ -64,6 +64,13 @@ function topFunction() {
 
     <div id="main" role="main" class="container">
       {{ content }}
+      
+<!-- Custom JavaScript files set in YAML front matter -->
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
+      
+      
     </div>
 
     <div class="wrapper-footer">
