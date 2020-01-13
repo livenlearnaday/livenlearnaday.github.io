@@ -1,7 +1,6 @@
 {% assign code = include.code %}
-{% assign language = include.language %}
 
-``` {{ language }}
+```
 {{ code }}
 ```
 {% assign nanosecond = "now" | date: "%N" %}
