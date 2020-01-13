@@ -21,5 +21,5 @@ const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
-{% include code_snippet.md code=code language='' %}
+{% include code_snippet.md code=code language='App Gradle Dependencies' %}
 
