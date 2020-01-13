@@ -6,7 +6,6 @@ keywords: 'android,dependencies'
 categories:
   - EN
   - post
-date: {}
 ---
   
 ## App Gradle Dependencies
