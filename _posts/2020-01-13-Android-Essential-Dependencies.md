@@ -14,18 +14,19 @@ Contains a list of essential dependencies for android studio for reference and u
 
 Please note that the version stated on the site may be outdated. Nonetheless, they can be updated via update function in the dependecies section of the project structure in android studio.
 
+The copy buttons are not working as yet.
+
 
 ### For network requests
 
 {%- capture code -%}
 implementation 'com.android.volley:volley:1.1.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='' %} copy button not working
-
+{% include code_snippet.md code=code language='maven' %} 
 {%- capture code -%}
 implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='' %} copy button not working
+{% include code_snippet.md code=code language='maven' %} 
 
 
 ### For image handling
@@ -33,9 +34,9 @@ implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- capture code -%}
 implementation 'com.squareup.picasso:picasso:2.71828'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='' %} copy button not working
+{% include code_snippet.md code=code language='maven' %} 
 
 {%- capture code -%}
 implementation 'com.github.bumptech.glide:glide:4.11.0'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='' %} copy button not working
+{% include code_snippet.md code=code language='maven' %} 
