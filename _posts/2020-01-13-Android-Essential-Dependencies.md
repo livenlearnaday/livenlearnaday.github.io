@@ -36,7 +36,7 @@ implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- capture code -%}
 implementation 'com.squareup.picasso:picasso:2.71828'
 {%- endcapture -%}
-{% include code_snippet.md code=code language='maven' %} 
+{% include code_snippet.md code=code language='' %} 
 
 
 {%- capture code -%}
