@@ -12,6 +12,7 @@ categories:
 ## Android Essential Dependencies
 (updated 14 Jan 2020)
 
+
 Testing
 
 App Gradle Dependencies:
@@ -20,4 +21,4 @@ const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
-{% includes code_snippet.md code=code language='' %}
+{% include code_snippet.md code=code language='' %}
