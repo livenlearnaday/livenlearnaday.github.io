@@ -9,16 +9,19 @@ categories:
 date: {}
 ---
   
+## App Gradle Dependencies:
 
-## Android Essential Dependencies
+***Note: Copy buttons are not working as yet.***
 
-Note: Copy buttons are not working as yet.
-
-App Gradle Dependencies:
 {%- capture code -%}
 const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
 {% include code_snippet.md code=code %}
-(button not working as intended)
+  
+> implementation 'com.android.volley:volley:1.1.1'
+  
+  
+
+
