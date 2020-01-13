@@ -7,10 +7,6 @@ keywords: 'android,dependencies'
 categories:
   - EN
   - post
-customjs:
- - http://code.jquery.com/jquery-1.4.2.min.js
- - https://livenlearnaday.github.io/scripts/copy_code.js
- 
 ---
   
 
@@ -21,17 +17,9 @@ Testing
 
 
 {%- capture code -%}
-/* Some js code */
 const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
-{% include code_snippet.md code=code language='javascript' %}
+{% include code_snippet.md code=code language='' %}
 
-{%- capture code -%}
-# Some ruby code
-t = Time.now
-t.succ  
-{%- endcapture -%}
-
-{% include code_snippet.md code=code language='ruby' %}
