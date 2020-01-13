@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 description: A collection of android essential dependencies.
 keywords: 'android,dependencies'
