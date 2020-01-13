@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+description: >-
+  Test post
+keywords: >-
+  test,test
+categories:
+  - EN
+  - post
 ---
 ## A New Post
  
