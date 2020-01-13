@@ -2,11 +2,9 @@
 published: true
 layout: post
 description: >-
-  Apps on google play store that are titled focus, concentration and brain (as
-  of 25 Jun 2018)
+  Apps on google play store titled NumpadKD
 keywords: >-
-  apps, google play store, google play, concentration app, focus app, brain app,
-  android
+  apps, google play store, google play, keystrokes, dynamics, app, android
 categories:
   - EN
   - android
