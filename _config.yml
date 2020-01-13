@@ -9,7 +9,7 @@ name: livenlearnaday
 description: Life is too short to stop learning.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: assets/logo.jpg
+avatar: https://livenlearnaday.github.io/images/logo.jpg
 # https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
