@@ -19,4 +19,5 @@ clipboard{{ nanosecond }}.on('success', function(e) {
 clipboard{{ nanosecond }}.on('error', function(e) {
     console.log(e);
 });
+{newline}
 </script>
