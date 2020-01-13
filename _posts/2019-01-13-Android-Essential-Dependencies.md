@@ -15,11 +15,11 @@ categories:
 
 Testing
 
-
+App Gradle Dependencies:
 {%- capture code -%}
 const redis = require('redis');
 const host = <HOSTNAME>;
 {%- endcapture -%}
 
-{% include code_snippet.md code=code language='App Gradle Dependencies' %}
+{% include code_snippet.md code=code language='' %}
 
