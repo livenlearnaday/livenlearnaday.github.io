@@ -11,6 +11,8 @@ date: {}
   
 ## App Gradle Dependencies
 
+Contains a list of essential dependencies for android studio for reference and usage.
+
 Please note that the version stated on the site may be outdated. Nonetheless, they can be updated via update function in the dependecies section of the project structure in android studio.
 
 
@@ -34,6 +36,3 @@ implementation 'com.squareup.picasso:picasso:2.71828'
 {%- capture code -%}
 implementation 'com.github.bumptech.glide:glide:4.11.0'
 {%- endcapture -%}
-  
-
-
