@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 layout: post
 description: A collection of android essential dependencies.
 keywords: 'android,dependencies'
@@ -18,3 +18,20 @@ customjs:
 (updated 14 Jan 2020)
 
 Testing
+
+
+{%- capture code -%}
+/* Some js code */
+const redis = require('redis');
+const host = <HOSTNAME>;
+{%- endcapture -%}
+
+{% include code_snippet.md code=code language='javascript' %}
+
+{%- capture code -%}
+# Some ruby code
+t = Time.now
+t.succ  
+{%- endcapture -%}
+
+{% include code_snippet.md code=code language='ruby' %}
