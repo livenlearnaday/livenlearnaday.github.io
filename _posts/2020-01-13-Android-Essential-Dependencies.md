@@ -12,7 +12,7 @@ date: {}
 
 ## Android Essential Dependencies
 
-
+Note: Copy buttons are not working as yet.
 
 App Gradle Dependencies:
 {%- capture code -%}
@@ -21,3 +21,4 @@ const host = <HOSTNAME>;
 {%- endcapture -%}
 
 {% include code_snippet.md code=code %}
+(button not working as intended)
