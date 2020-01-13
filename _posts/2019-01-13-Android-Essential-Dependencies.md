@@ -9,11 +9,10 @@ categories:
   - post
 customjs:
  - http://code.jquery.com/jquery-1.4.2.min.js
- - http://yourdomain.com/yourscript.js
+ - https://livenlearnaday.github.io/scripts/copy_code.js
+ 
 ---
   
-  
----
 
 ## Android Essential Dependencies
 (updated 14 Jan 2020)
