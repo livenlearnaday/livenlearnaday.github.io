@@ -1,4 +1,5 @@
 ---
+
 published: false
 layout: post
 description: A collection of android essential dependencies.
@@ -6,6 +7,12 @@ keywords: 'android,dependencies'
 categories:
   - EN
   - post
+customjs:
+ - http://code.jquery.com/jquery-1.4.2.min.js
+ - http://yourdomain.com/yourscript.js
+---
+  
+  
 ---
 
 ## Android Essential Dependencies
