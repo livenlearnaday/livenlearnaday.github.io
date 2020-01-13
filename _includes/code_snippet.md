@@ -9,7 +9,7 @@
   Copy to clipboard
 </button>
 
-<script>
+<script\>
 var copybutton = document.getElementById('copybutton{{ nanosecond }}');
 var clipboard{{ nanosecond }} = new Clipboard(copybutton);
 
@@ -19,5 +19,5 @@ clipboard{{ nanosecond }}.on('success', function(e) {
 clipboard{{ nanosecond }}.on('error', function(e) {
     console.log(e);
 });
-{newline}
-</script>
+
+</script\>
