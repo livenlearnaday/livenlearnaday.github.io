@@ -1,6 +1,14 @@
 ---
 published: false
+layout: post
+description: A collection of android essential dependencies.
+keywords: 'android,dependencies'
+categories:
+  - EN
+  - post
 ---
-## A New Post
+
+## Android Essential Dependencies
+(updated 14 Jan 2020)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
