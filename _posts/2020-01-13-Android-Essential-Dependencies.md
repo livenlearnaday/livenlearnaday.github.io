@@ -20,12 +20,12 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 {%- capture code -%}
 implementation 'com.android.volley:volley:1.1.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code %} copy button not working
+{% include code_snippet.md code=code language='' %} copy button not working
 
 {%- capture code -%}
 implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- endcapture -%}
-{% include code_snippet.md code=code %} copy button not working
+{% include code_snippet.md code=code language='' %} copy button not working
 
 
 ### For image handling
@@ -33,9 +33,9 @@ implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 {%- capture code -%}
 implementation 'com.squareup.picasso:picasso:2.71828'
 {%- endcapture -%}
-{% include code_snippet.md code=code %} copy button not working
+{% include code_snippet.md code=code language='' %} copy button not working
 
 {%- capture code -%}
 implementation 'com.github.bumptech.glide:glide:4.11.0'
 {%- endcapture -%}
-{% include code_snippet.md code=code %} copy button not working
+{% include code_snippet.md code=code language='' %} copy button not working
