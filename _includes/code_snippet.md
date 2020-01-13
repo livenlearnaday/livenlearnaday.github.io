@@ -5,9 +5,9 @@
 ```
 {% assign nanosecond = "now" | date: "%N" %}
 <textarea id="code{{ nanosecond }}" style="display:none;">{{ code | xml_escape }}</textarea>
-<button id="copybutton{{ nanosecond }}" data-clipboard-target="#code{{ nanosecond }}">
+<button id="copybutton{{ nanosecond }}" data-clipboard-target="#code{{ nanosecond }}"\>
   Copy to clipboard
-</button>
+</button\>
 
 <script\>
 var copybutton = document.getElementById('copybutton{{ nanosecond }}');
