@@ -8,6 +8,7 @@ keywords: >-
 categories:
   - EN
   - android
+date: 2019-07-21 13:10:00 +07:00
 ---
 **Purpose of application**
 
