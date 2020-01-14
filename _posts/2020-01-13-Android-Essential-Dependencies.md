@@ -19,8 +19,13 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 ### For network requests
 
+{%- capture code -%}
+implementation 'com.android.volley:volley:1.1.1'
+{%- endcapture -%}
 
-<code>implementation 'com.android.volley:volley:1.1.1'</code>
+{% include code_snippet.md code=code language='properties' %}
+
+
 
 <code>implementation 'com.squareup.retrofit2:retrofit:2.7.1'</code>
 
