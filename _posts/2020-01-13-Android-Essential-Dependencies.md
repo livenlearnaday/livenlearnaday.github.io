@@ -23,7 +23,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 implementation 'com.android.volley:volley:1.1.1'
 {%- endcapture -%}
 
-{% include code_snippet.md code=code language='gradle' %}
+{% include code_snippet.md code=code language='markdown' %}
 
 
 
