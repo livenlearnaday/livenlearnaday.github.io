@@ -24,21 +24,15 @@ The copy buttons are not working as yet.
 
 
 
-{%- capture code -%}
-implementation 'com.squareup.retrofit2:retrofit:2.7.1'
-{%- endcapture -%}
-{% include code_snippet.md code=code language='' %} 
+
+<code>implementation 'com.squareup.retrofit2:retrofit:2.7.1'</code>
+
 
 
 ### For image handling
 
-{%- capture code -%}
-implementation 'com.squareup.picasso:picasso:2.71828'
-{%- endcapture -%}
-{% include code_snippet.md code=code language='' %} 
+
+<code>implementation 'com.squareup.picasso:picasso:2.71828'</code>
 
 
-{%- capture code -%}
-implementation 'com.github.bumptech.glide:glide:4.11.0'
-{%- endcapture -%}
-{% include code_snippet.md code=code language='' %} 
+<code>implementation 'com.github.bumptech.glide:glide:4.11.0'</code>
