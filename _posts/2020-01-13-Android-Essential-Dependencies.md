@@ -19,10 +19,9 @@ The copy buttons are not working as yet.
 
 ### For network requests
 
-{%- capture code -%}
-implementation 'com.android.volley:volley:1.1.1'
-{%- endcapture -%}
-{% include code_snippet.md code=code language='' %} 
+
+<code>implementation 'com.android.volley:volley:1.1.1'</code>
+
 
 
 {%- capture code -%}
