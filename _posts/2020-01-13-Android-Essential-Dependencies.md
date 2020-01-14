@@ -22,9 +22,6 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 <code>implementation 'com.android.volley:volley:1.1.1'</code>
 
-
-
-
 <code>implementation 'com.squareup.retrofit2:retrofit:2.7.1'</code>
 
 
@@ -33,6 +30,5 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 <code>implementation 'com.squareup.picasso:picasso:2.71828'</code>
-
 
 <code>implementation 'com.github.bumptech.glide:glide:4.11.0'</code>
