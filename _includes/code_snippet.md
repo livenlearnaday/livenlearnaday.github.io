@@ -21,3 +21,5 @@ clipboard{{ nanosecond }}.on('error', function(e) {
     console.log(e);
 });
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
