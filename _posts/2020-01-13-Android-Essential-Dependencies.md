@@ -19,21 +19,20 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 ### For network requests
 
-{%- capture code -%}
+
 implementation 'com.android.volley:volley:1.1.1'
-{%- endcapture -%}
 
-{% include code_snippet.md code=code language='plaintext' %}
-
-
-
-<code>implementation 'com.squareup.retrofit2:retrofit:2.7.1'</code>
+implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 
 
 
 ### For image handling
 
 
-<code>implementation 'com.squareup.picasso:picasso:2.71828'</code>
+implementation 'com.squareup.picasso:picasso:2.71828'
 
-<code>implementation 'com.github.bumptech.glide:glide:4.11.0'</code>
+implementation 'com.github.bumptech.glide:glide:4.11.0'
+
+<br>
+<br>
+<br>
