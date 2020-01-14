@@ -14,7 +14,7 @@ Contains a list of essential dependencies for android studio for reference and u
 
 Please note that the version stated on the site may be outdated. Nonetheless, they can be updated via update function in the dependecies section of the project structure in android studio.
 
-The copy buttons are not working as yet.
+
 
 
 ### For network requests
