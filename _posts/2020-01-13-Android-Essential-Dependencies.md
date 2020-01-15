@@ -17,7 +17,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 | ### For network requests                                             |
-| Dependencies  | Limitation |
+| Dependencies                                         | Limitation    |
 | -------------------------------------------------------------------- |
 |implementation 'com.android.volley:volley:1.1.1'      | ------------- |
 | -------------------------------------------------------------------- |
