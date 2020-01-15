@@ -16,40 +16,33 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 ### For network requests  
-===
-
-| Dependencies                                         | Limitation    |
-| -------------------------------------------------------------------- |
-|implementation 'com.android.volley:volley:1.1.1'      |               |
-| -------------------------------------------------------------------- |
-|implementation 'com.squareup.retrofit2:retrofit:2.7.1'|               |
+---
+>implementation 'com.android.volley:volley:1.1.1'
 
 
-
-
-
-
-implementation 'com.android.volley:volley:1.1.1'
+>implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 
 
 
 <br>
 
 ### For image handling
-===
+---
+
+>implementation 'com.squareup.picasso:picasso:2.71828'
 
 
-implementation 'com.squareup.picasso:picasso:2.71828'
-
-implementation 'com.github.bumptech.glide:glide:4.11.0'
+>implementation 'com.github.bumptech.glide:glide:4.11.0'
 
 <br>
 
 ### For layouts
-===
-implementation 'androidx.recyclerview:recyclerview:1.1.0'
+---
 
-implementation 'androidx.cardview:cardview:1.0.0'
+>implementation 'androidx.recyclerview:recyclerview:1.1.0'
+
+
+>implementation 'androidx.cardview:cardview:1.0.0'
 
 
 
