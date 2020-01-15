@@ -24,6 +24,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 <br>
+<br>
 
 ## For image handling
 ---
@@ -33,6 +34,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 >implementation 'com.github.bumptech.glide:glide:4.11.0'
 
 
+<br>
 <br>
 
 ## For layouts
