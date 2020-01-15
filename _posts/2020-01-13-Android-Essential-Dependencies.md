@@ -17,6 +17,12 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ### For network requests
 
 
@@ -24,7 +30,7 @@ implementation 'com.android.volley:volley:1.1.1'
 
 implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 
-
+<br>
 
 ### For image handling
 
@@ -32,6 +38,16 @@ implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 implementation 'com.squareup.picasso:picasso:2.71828'
 
 implementation 'com.github.bumptech.glide:glide:4.11.0'
+
+<br>
+
+### For layouts
+
+implementation 'androidx.recyclerview:recyclerview:1.1.0'
+
+implementation 'androidx.cardview:cardview:1.0.0'
+
+
 
 <br>
 <br>
