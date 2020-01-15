@@ -8,14 +8,14 @@ categories:
   - post
 ---
   
-## App Gradle Dependencies
+# App Gradle Dependencies
 
 Contains a list of essential dependencies for android studio for reference and usage.
 
 Please note that the version stated on the site may be outdated. Nonetheless, they can be updated via update function in the dependecies section of the project structure in android studio.
 
 
-### For network requests  
+## For network requests  
 ---
 
 >implementation 'com.android.volley:volley:1.1.1'
@@ -23,7 +23,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 >implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 <br>
 
-### For image handling
+## For image handling
 ---
 
 >implementation 'com.squareup.picasso:picasso:2.71828'
@@ -31,12 +31,14 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 >implementation 'com.github.bumptech.glide:glide:4.11.0'
 <br>
 
-### For layouts
+## For layouts
 ---
 
 >implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
 >implementation 'androidx.cardview:cardview:1.0.0'
+
+
 <br>
 <br>
 <br>
