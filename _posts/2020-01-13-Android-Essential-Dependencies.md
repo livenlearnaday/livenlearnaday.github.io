@@ -16,20 +16,21 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 
 
-| testing                       |
-| ----------------------------- |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ### For network requests                                             |
+| Dependencies  | Limitation |
+| -------------------------------------------------------------------- |
+|implementation 'com.android.volley:volley:1.1.1'      | ------------- |
+| -------------------------------------------------------------------- |
+|implementation 'com.squareup.retrofit2:retrofit:2.7.1'| ------------- |
 
 
-### For network requests
+
+
 
 
 implementation 'com.android.volley:volley:1.1.1'
 
-implementation 'com.squareup.retrofit2:retrofit:2.7.1'
+
 
 <br>
 
