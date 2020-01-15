@@ -19,6 +19,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 ---
 
 >implementation 'com.android.volley:volley:1.1.1'
+
 >implementation 'com.squareup.retrofit2:retrofit:2.7.1'
 
 
@@ -29,6 +30,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 ---
 
 >implementation 'com.squareup.picasso:picasso:2.71828'
+
 >implementation 'com.github.bumptech.glide:glide:4.11.0'
 
 
@@ -39,6 +41,7 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 ---
 
 >implementation 'androidx.recyclerview:recyclerview:1.1.0'
+
 >implementation 'androidx.cardview:cardview:1.0.0'
 
 
