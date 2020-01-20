@@ -44,6 +44,11 @@ Please note that the version stated on the site may be outdated. Nonetheless, th
 
 >implementation 'androidx.cardview:cardview:1.0.0'
 
+>implementation 'com.google.android.material:material:1.0.0'
+
+android.material includes RecyclerView, CardView, Fragment, annotaion, [etc.](https://mvnrepository.com/artifact/com.google.android.material/material/1.0.0)
+
+
 
 <br>
 <br>
