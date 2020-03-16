@@ -9,6 +9,9 @@ categories:
 date: {}
 ---
 ## A post to display 120 qr codes for QR scanning test (AB001BBB12342020 - AB120BBB12342020)
- 
 
- 
+
+
+
+
+[AB001BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB001BBB12342020.png)
