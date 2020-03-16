@@ -8,7 +8,7 @@ categories:
   - post
 ---
   
-# App Gradle Dependencies
+# List of App Gradle Dependencies
 
 Contains a list of essential dependencies for android studio for reference and usage.
 
