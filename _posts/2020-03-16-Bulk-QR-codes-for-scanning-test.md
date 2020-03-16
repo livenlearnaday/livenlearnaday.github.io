@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 description: Bulk qr codes for scanning test
 keywords: 'qr, qr codes'
@@ -8,7 +8,7 @@ categories:
   - post
 date: {}
 ---
-## A post to display 120 qr codes for QR scanning test (AB001BBB12342020 - AB120BBB12342020)
+## A post to display 120 qr codes for QR scanning test (AB001BBB12342020 - AB036BBB12342020)
 
 
 
