@@ -6,7 +6,7 @@ keywords: 'qr, qr codes'
 categories:
   - EN
   - post
-date: {}
+date: 2020-03-16
 ---
 ## A post to display 120 qr codes for QR scanning test (AB001BBB12342020 - AB036BBB12342020)
 
