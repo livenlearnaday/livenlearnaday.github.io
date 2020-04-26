@@ -6,13 +6,14 @@ keywords: 'test,test'
 categories:
   - EN
   - post
-date: 2019-07-21 13:10:00 +07:00
+date: {}
 ---
 ## Lenovo Ideapad 320 AMD A4-9120-R3 For Android Development.
  
  
 Lenovo Ideapad 320 AMD A4-9120-R3
 Initial specs:
+
 
 
  
