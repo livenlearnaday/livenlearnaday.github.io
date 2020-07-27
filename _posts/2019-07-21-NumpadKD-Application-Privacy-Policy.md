@@ -1,15 +1,16 @@
 ---
 published: true
 layout: post
-description: >-
-  Apps on google play store titled NumpadKD
-keywords: >-
-  apps, google play store, google play, keystrokes, dynamics, app, android
+description: Apps on google play store titled NumpadKD
+keywords: 'apps, google play store, google play, keystrokes, dynamics, app, android'
 categories:
   - EN
   - android
-date: 2019-07-21 13:10:00 +07:00
+date: '2019-07-21 13:10:00 +0700'
 ---
+NumpadKD application is in-app keystroke dynamic data collection. Please find below the privacy policy of the application.
+
+
 **Purpose of application**
 
 The application is designed to collect keystroke dynamics data from the user while using the application only.
