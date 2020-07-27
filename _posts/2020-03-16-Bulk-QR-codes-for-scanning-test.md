@@ -2,7 +2,7 @@
 published: true
 layout: post
 description: Bulk qr codes for scanning test
-keywords: 'qr, qr codes'
+keywords: 'qr, qr codes, bulk qr codes'
 categories:
   - EN
   - post
