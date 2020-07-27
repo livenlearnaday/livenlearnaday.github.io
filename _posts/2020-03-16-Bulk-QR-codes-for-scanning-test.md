@@ -6,7 +6,7 @@ keywords: 'qr, qr codes, bulk qr codes'
 categories:
   - EN
   - post
-date: {}
+date: 2019-07-27 13:10:00 +07:00
 ---
 This post is just a collection of QR codes for the bulk QR scanning test (under the label AB001BBB12342020 - AB036BBB12342020) by the boofcv app. 
 
