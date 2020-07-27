@@ -8,7 +8,7 @@ categories:
   - android
 date: '2019-07-21 13:10:00 +0700'
 ---
-NumpadKD application is in-app keystroke dynamic data collection. Please find below the privacy policy of the application.
+NumpadKD application is an in-app keystroke dynamic data collection application. Please find below the privacy policy of the application.
 
 
 **Purpose of application**
