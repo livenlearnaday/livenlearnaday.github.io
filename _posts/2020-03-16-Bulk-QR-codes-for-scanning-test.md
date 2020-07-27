@@ -6,9 +6,11 @@ keywords: 'qr, qr codes'
 categories:
   - EN
   - post
-date: 2020-03-16
+date: {}
 ---
-## A post to display QR codes for QR scanning test (AB001BBB12342020 - AB036BBB12342020)
+This post is just a collection of QR codes for the bulk QR scanning test (under the label AB001BBB12342020 - AB036BBB12342020) by the boofcv app. 
+
+QR scanning has been around for a long time and [boofcv](https://boofcv.org/index.php?title=Main_Page) opensource project with available [android app](https://play.google.com/store/apps/details?id=org.boofcv.android&hl=en) and [sourcecode](https://github.com/lessthanoptimal/BoofCV) has taken it to the take level by introducing the bulk scanning of the QR codes. But wait, isn't that feature already available in the [zxing](https://github.com/zxing/zxing) app? If you've used the feature before, you would know that QR bulk scannning by boofcv definitely has an edge over zxing. Nonetheless, zxing also supports barcode scanning which is not available on boofcv at this time. 
 
 
 ![AB001BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB001BBB12342020.png)   ![AB002BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB002BBB12342020.png)   ![AB003BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB003BBB12342020.png)   ![AB004BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB004BBB12342020.png)   ![AB005BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB005BBB12342020.png)   ![AB006BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB006BBB12342020.png)   ![AB007BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB007BBB12342020.png)   ![AB008BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB008BBB12342020.png)   ![AB009BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB009BBB12342020.png)   ![AB010BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB010BBB12342020.png)   ![AB011BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB011BBB12342020.png)   ![AB012BBB12342020](https://livenlearnaday.github.io/images/code1to120/AB012BBB12342020.png)  |
