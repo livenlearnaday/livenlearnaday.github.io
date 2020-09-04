@@ -9,7 +9,7 @@ published: true
 ### Android projects
 
 
-[NumpadKD (Published)](https://livenlearnaday.github.io/portfolio/android_projects/numpadkd.html)
+[NumpadKD (Published on Google Play Store Jul 2019 - Nov 2020 (Target Android SDK 28)](https://livenlearnaday.github.io/portfolio/android_projects/numpadkd.html)
 
 [Random Number Game (Pending)](https://livenlearnaday.github.io/portfolio/android_projects/random_number_game.html)
 
