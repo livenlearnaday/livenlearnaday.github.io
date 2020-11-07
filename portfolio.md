@@ -13,6 +13,8 @@ published: true
 
 [Random Number Game (Pending)](https://livenlearnaday.github.io/portfolio/android_projects/random_number_game.html)
 
+[BMZScanner](https://github.com/livenlearnaday/BMZScanner)
+
 
 
 ### Web projects:
