@@ -9,15 +9,14 @@ published: true
 ### Android projects
 
 
-[NumpadKD (Published on Google Play Store Jul 2019 - Nov 2020 (Target Android SDK 28))](https://livenlearnaday.github.io/portfolio/android_projects/numpadkd.html)
-
-[Random Number Game (Pending)](https://livenlearnaday.github.io/portfolio/android_projects/random_number_game.html)
-
-[BMZScanner](https://github.com/livenlearnaday/BMZScanner)
+| Application | Github | Google Play Store | Status | Note |
+| :---------- |:-------| :-----------------| :------| :--- |
+[NumpadKD](https://livenlearnaday.github.io/portfolio/android_projects/numpadkd.html) |	No |	Published (Jul 2019 - Nov 2020) |	Completed |	Target Android SDK 28 |
+[Random Number Game](https://livenlearnaday.github.io/portfolio/android_projects/random_number_game.html) |	No |	No | WIP | - | 
+[BMZScanner](https://github.com/livenlearnaday/BMZScanner) | Yes | No |	WIP |	Github version is the bare minimum, not useful in daily life usage |
 
 
 
 ### Web projects:
 
-
-[freeCodeCamp.org Tribute Page](https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html "FCC_tribute_page"){:target="_blank"}
+<a href="https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html" target="_blank">freeCodeCamp.org Tribute Page</a>
