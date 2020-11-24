@@ -8,6 +8,8 @@ published: true
 
 ### Android projects
 
+<div class="custom-table">
+
 | Application | Github | Google Play Store | Status | Note |
 | :---------- |:-------| :-----------------| :------| :--- |
 [NumpadKD](https://livenlearnaday.github.io/portfolio/android_projects/numpadkd.html) |	No |	Published (Jul 2019 - Nov 2020) |	Completed |	Target Android SDK 28 |
@@ -15,6 +17,7 @@ published: true
 [BMZScanner](https://github.com/livenlearnaday/BMZScanner) | Yes | No |	WIP |	Github version is the bare minimum, not useful in daily life usage |
 
 
+</div>
 
 
 ### Web projects:
