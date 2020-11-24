@@ -144,8 +144,11 @@ img {
     clear: both;
 }
 
-td, th {
-    border: 1px solid grey
+
+.custom-table th, .custom-table td {
+   padding: 1px;
+   border: 1px solid grey;
+   // any style you want ...
 }
 
 /*********************/
@@ -158,10 +161,6 @@ td, th {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-}
-
-td, th {
-    border: 1px solid grey
 }
 
 .masthead {
