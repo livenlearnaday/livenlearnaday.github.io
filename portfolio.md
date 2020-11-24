@@ -8,7 +8,7 @@ published: true
 
 ### Android projects
 
-<div class="app-table">
+<div class="table">
 
 | Application | Github | Google Play Store | Status | Note |
 | :---------- |:-------| :-----------------| :------| :--- |
