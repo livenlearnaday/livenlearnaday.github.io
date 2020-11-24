@@ -8,6 +8,7 @@ published: true
 
 ### Android projects
 
+<div class="app-table">
 
 | Application | Github | Google Play Store | Status | Note |
 | :---------- |:-------| :-----------------| :------| :--- |
@@ -15,8 +16,12 @@ published: true
 [Random Number Game](https://livenlearnaday.github.io/portfolio/android_projects/random_number_game.html) |	No |	No | WIP | - | 
 [BMZScanner](https://github.com/livenlearnaday/BMZScanner) | Yes | No |	WIP |	Github version is the bare minimum, not useful in daily life usage |
 
+</div>
 
 
 ### Web projects:
 
 <a href="https://livenlearnaday.github.io/portfolio/web_projects/FCC_tribute_page.html" target="_blank">freeCodeCamp.org Tribute Page</a>
+
+
+
