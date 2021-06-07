@@ -1,6 +1,6 @@
 ---
 ---
-
+// need this to process style below
 
 //
 // IMPORTS
@@ -321,9 +321,9 @@ footer {
     background-color: gray; /* Set a background color */
     color: $black; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 30px; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
+    padding: 40px; /* Some padding */
+    border-radius: 40px; /* Rounded corners */
+    font-size: 24px; /* Increase font size */
 }
 
 #backToTop:hover {
