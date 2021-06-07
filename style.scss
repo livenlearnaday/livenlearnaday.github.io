@@ -249,18 +249,14 @@ nav {
 // .main
 //
 
-.tablelines table, .tablelines td, .tablelines th {
+.tablelines table, .tablelines td, .tablelines th, .tablelines tr:nth-child(n+.tablelines10) {
   border: 1px solid black;
-  padding: 2px;
+  padding: 3px;
+  margin-right: 2px;
+  margin-left: 2px;
   word-wrap: normal;
+  background: rgb(27, 165, 211);
 
-  }
-
-.tablelines tr:nth-child(n+.tablelines10) {
-    background: rgb(27, 165, 211);
-  }
-.tablelines tr:nth-child(n+20) {
-    background: white;
   }
 
 
