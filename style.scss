@@ -258,7 +258,7 @@ nav {
   }
 
   table tr:nth-child(n+10) {
-    background: lightblue;
+    background: rgb(27, 165, 211);
   }
   table tr:nth-child(n+20) {
     background: white;
@@ -295,6 +295,7 @@ nav {
 }
 
 .wrapper-footer {
+  padding: 20px;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
@@ -302,7 +303,7 @@ nav {
 }
 
 footer {
-  padding-top: 10px;
+
   text-align: center;
   margin-bottom: 0px;
 }
