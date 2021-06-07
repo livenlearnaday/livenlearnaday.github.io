@@ -5,11 +5,7 @@ permalink: /portfolio/
 published: true
 ---
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+
 
 ### Android projects
 
