@@ -255,12 +255,14 @@ nav {
 
 .tablelines table, .tablelines td, .tablelines th {
   border: 1px solid black;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
   }
 
-  table tr:nth-child(n+10) {
+.tablelines table tr:nth-child(n+.tablelines10) {
     background: rgb(27, 165, 211);
   }
-  table tr:nth-child(n+20) {
+.tablelines table tr:nth-child(n+20) {
     background: white;
   }
 

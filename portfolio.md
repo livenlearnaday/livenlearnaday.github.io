@@ -18,7 +18,6 @@ published: true
 [CountryListJava](https://github.com/livenlearnaday/CountryListJava) | Yes | No |	- |	- |
 [CountryListKotlin](https://github.com/livenlearnaday/CountryListKotlin) | Yes | No |	WIP |	- |
 {: .tablelines}
-{: .table tr}
 
 
 
