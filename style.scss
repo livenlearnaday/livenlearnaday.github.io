@@ -145,11 +145,7 @@ img {
 }
 
 
-.custom-table th, .custom-table td {
-   padding: 1px;
-   border: 1px solid grey;
-   // any style you want ...
-}
+
 
 /*********************/
 /* LAYOUT / SECTIONS */
@@ -255,16 +251,19 @@ nav {
 
 .tablelines table, .tablelines td, .tablelines th {
   border: 1px solid black;
-  margin-inline-start: 8px;
-  margin-inline-end: 8px;
+  padding: 2px;
+  word-wrap: normal;
+
   }
 
-.tablelines table tr:nth-child(n+.tablelines10) {
+.tablelines tr:nth-child(n+.tablelines10) {
     background: rgb(27, 165, 211);
   }
-.tablelines table tr:nth-child(n+20) {
+.tablelines tr:nth-child(n+20) {
     background: white;
   }
+
+
 
 .posts > .post {
   padding-bottom: 2em;
