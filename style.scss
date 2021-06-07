@@ -258,7 +258,7 @@ nav {
   }
 
   .tablelines tr:nth-child(2n){
-    background-color: lightcyan;
+    background-color: rgb(145, 150, 150);
   }
 
 
@@ -314,11 +314,11 @@ footer {
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
-    background-color: lightblue; /* Set a background color */
+    background-color: gray; /* Set a background color */
     color: $black; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
-    border-radius: 10px; /* Rounded corners */
+    border-radius: 40px; /* Rounded corners */
     font-size: 18px; /* Increase font size */
 }
 
