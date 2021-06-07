@@ -5,6 +5,11 @@ permalink: /portfolio/
 published: true
 ---
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 ### Android projects
 
@@ -16,7 +21,7 @@ published: true
 [BMZScanner](https://github.com/livenlearnaday/BMZScanner) | Yes | No |	- |	Github version is the bare minimum, not practical in daily life usage |
 [CountryListJava](https://github.com/livenlearnaday/CountryListJava) | Yes | No |	- |	- |
 [CountryListKotlin](https://github.com/livenlearnaday/CountryListKotlin) | Yes | No |	WIP |	- |
-
+{: .tablelines}
 
 
 
