@@ -3,7 +3,7 @@ layout: post
 description: Bulk QR codes for scanning test
 tags: QR QR-codes bulk-QR-codes android
 categories: android
-date: 2020-03-16 13:10:00 +0700
+date: 2020-03-16 13:10:00
 ---
 This post is just a collection of QR codes for the bulk QR scanning test (under the label AB001BBB12342020 - AB036BBB12342020) by the boofcv app. 
 
