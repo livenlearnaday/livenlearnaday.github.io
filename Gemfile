@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'numo-array'
-    gem 'numo-linalg'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
