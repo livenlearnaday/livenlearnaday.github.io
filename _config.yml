@@ -94,7 +94,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: users/11435602/livenlearnaday # your stackoverflow id
+stackoverflow_id: 11435602 # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
@@ -138,18 +138,18 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
-giscus:
-  repo: livenlearnaday/webpage_comments     # <your-github-user-name>/<your-github-repo-name>
-  repo_id: 661181415
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6                   # "<data-category-id>"
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+# giscus:
+#   repo: livenlearnaday/webpage_comments     # <your-github-user-name>/<your-github-repo-name>
+#   repo_id: 661181415
+#   category: Comments             # name of the category under which discussions will be created
+#   category_id: DIC_kwDOA5PmLc4CTBt6                   # "<data-category-id>"
+#   mapping: title                 # identify discussions by post title
+#   strict: 1                      # use strict identification mode
+#   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
+#   input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+#   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+#   emit_metadata: 0
+#   lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname:  # put your disqus shortname
@@ -158,9 +158,9 @@ disqus_shortname:  # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: 
-    rss_url:
+# external_sources:
+#   - name: 
+#     rss_url:
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -361,7 +361,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
