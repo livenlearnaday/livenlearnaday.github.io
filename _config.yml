@@ -332,6 +332,14 @@ imagemagick:
     - 1400
   input_directories:
     - assets/img/
+    - assets/AddDeleteTextFromList
+    - assets/BMZScanner
+    - assets/CountryListKotlin
+    - assets/DisplayWithSpinners
+    - assets/numpadkd_images
+    - assets/ShareFiles
+    - images/code1to120
+    - images
   input_formats:
     - ".jpg"
     - ".jpeg"
