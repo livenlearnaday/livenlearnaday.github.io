@@ -9,7 +9,8 @@ This post is just a collection of QR codes for the bulk QR scanning test (under 
 
 
 
-QR scanning has been around for a long time and [boofcv](https://boofcv.org/index.php?title=Main_Page) opensource project with available [android app](https://play.google.com/store/apps/details?id=org.boofcv.android&hl=en) and [sourcecode](https://github.com/lessthanoptimal/BoofCV) has taken it to the take level by introducing the bulk scanning of the QR codes. But wait, isn't that feature already available in the [zxing](https://github.com/zxing/zxing) app? If you've used the feature before, you would know that QR bulk scannning by boofcv definitely has an edge over zxing. Nonetheless, zxing also supports barcode scanning which is not available on boofcv at the time of this post. 
+QR scanning has been around for a long time and <a href="https://boofcv.org/index.php?title=Main_Page">boofcv</a> opensource project with available <a href="https://play.google.com/store/apps/details?id=org.boofcv.android&hl=en">boofcv android app</a> and <a href="https://github.com/lessthanoptimal/BoofCV">boofcv sourcecode</a> 
+has taken it to the next level by introducing the bulk scanning of the QR codes. But wait, isn't that feature already available in the <a href="https://github.com/zxing/zxing">zxing</a>  app? If you've used the feature before, you would know that QR bulk scannning by boofcv definitely has an edge over zxing. Nonetheless, zxing also supports barcode scanning which is not available on boofcv at the time of this post. 
 
 
 
