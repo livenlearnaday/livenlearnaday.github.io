@@ -1,0 +1,67 @@
+[
+  {
+    "base_unit": true,
+    "measurement_system": "Metric",
+    "category": "Area",
+    "name": "sq. km",
+    "conversion_factor": 1,
+    "is_locked": true
+  },
+  {
+    "base_unit": true,
+    "measurement_system": "Metric",
+    "category": "Density",
+    "name": "g / cc",
+    "conversion_factor": 1,
+    "is_locked": true
+  },
+  {
+    "base_unit": true,
+    "measurement_system": "Metric",
+    "category": "Rate",
+    "name": "mm / h",
+    "conversion_factor": 1,
+    "is_locked": true
+  },
+  {
+    "base_unit": true,
+    "measurement_system": "Metric",
+    "category": "Length",
+    "name": "mm",
+    "conversion_factor": 1,
+    "is_locked": true
+  },
+  {
+    "base_unit": false,
+    "measurement_system": "Imperial",
+    "category": "Area",
+    "name": "sq. mi",
+    "conversion_factor": 0.6213712,
+    "is_locked": true
+  },
+  {
+    "base_unit": false,
+    "measurement_system": "Imperial",
+    "category": "Density",
+    "name": "lb / cu ft",
+    "conversion_factor": 0.06242796,
+    "is_locked": true
+  },
+  {
+    "base_unit": false,
+    "measurement_system": "Imperial",
+    "category": "Rate",
+    "name": "in / h",
+    "conversion_factor": 0.0393701,
+    "is_locked": true
+  },
+  {
+    "base_unit": false,
+    "measurement_system": "Imperial",
+    "category": "Length",
+    "name": "in",
+    "conversion_factor": 0.0393701,
+    "is_locked": true
+  }
+  
+]
