@@ -266,7 +266,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['kotlin', 'compose', 'native', 'hybrid', 'flutter', 'QR', 'app'] # these tags will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
 display_categories: ['android', 'privacy-policy'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
