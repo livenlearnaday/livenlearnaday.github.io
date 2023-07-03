@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: portfolio
+permalink: /portfolio/
+description: A collection of projects
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [android]
 horizontal: false
 ---
 
@@ -37,9 +37,9 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+{%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+{% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
