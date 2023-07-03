@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://livenlearnaday.github.io/repositories//sitemap.xml
+Sitemap: https://livenlearnaday.github.io/sitemap.xml
