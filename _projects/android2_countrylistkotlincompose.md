@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CountryListKotlinCompose
-subtitle: (WIP)
+title: CountryListKotlinCompose (WIP)
+img:
 description: android app that displays a list of countries using compose
 redirect: https://github.com/livenlearnaday/CountryListKotlinCompose
 importance: 2
