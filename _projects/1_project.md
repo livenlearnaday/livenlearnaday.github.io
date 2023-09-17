@@ -3,7 +3,7 @@ layout: page
 title: project 1
 description: a sample project with a background image
 img: assets/img/12.jpg
-importance: 2
+importance: 1
 category: work
 ---
 
