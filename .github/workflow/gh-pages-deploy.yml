@@ -3,9 +3,11 @@ name: gh-pages-deploy
 on:
   push:
     branches:
+      - master
       - gh-pages
   pull_request:
     branches:
+      - master
       - gh-pages
   workflow_dispatch:
 
