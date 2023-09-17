@@ -2,7 +2,7 @@
     "homepage" : "{{ site.baseurl }}",
     "version"  : "1",
     "last_update" : "{{ site.time | date_to_xmlschema }}",
-    "name": {{ site.name | smartify | jsonify}},
+    "name": "{{ site.name | smartify | jsonify}}",
     "description": "{{ site.description }}",
     "logo": "{{ site.logo }}",
     "expired": false,
