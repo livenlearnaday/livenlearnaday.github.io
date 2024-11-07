@@ -2,7 +2,7 @@
 layout: post
 title: NumpadKD Privacy Policy
 date: 2019-07-21 13:10:00+0700
-description: Apps on google play store titled NumpadKD
+description: Apps on google play store titled NumpadKD (2019-2024)
 tags: app
 categories: android privacy-policy
 related_posts: false
