@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CountryListKotlin (WIP)
+title: CountryListKotlin
 img:
 description: an android app that displays a list of countries
 redirect: https://github.com/livenlearnaday/CountryListKotlin
