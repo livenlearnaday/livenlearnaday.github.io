@@ -2,8 +2,8 @@
 layout: page
 title: CountryList
 img:
-description: an android compose app for displaying a list of flag and bookmarking fav flags
+description: an android app (using androidx compose) that displays a list of flags and with option to search for and bookmark flags.
 redirect: https://github.com/livenlearnaday/CountryList
-importance: 1
+importance: 2
 category: apps-with-repository
 ---
