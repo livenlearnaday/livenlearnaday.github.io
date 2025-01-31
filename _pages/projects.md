@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects.
 nav: true
 nav_order: 2
-display_categories: [apps-with-repository, apps-without-repository]
+display_categories: [apps-with-repository, apps-without-repository, resources]
 horizontal: false
 ---
 
