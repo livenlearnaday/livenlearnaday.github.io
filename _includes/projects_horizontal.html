@@ -4,20 +4,24 @@
   {%- else -%}
   <a href="{{ project.url | relative_url }}">
   {%- endif -%}
-    <div class="card hoverable">
-      <div class="row g-0">
+    <!-- FORCED FLEX AND REMOVED OVERFLOW CONSTRAINTS ON THE CARD -->
+    <div class="card hoverable" style="display: flex; flex-direction: column; height: 100%;">
+      <!-- FORCED ROW TO MATCH FULL CARD HEIGHT -->
+      <div class="row g-0" style="display: flex; align-items: center; min-height: 100%; width: 100%; margin: 0;">
         {%- if project.img -%}
-        <div class="card-img col-md-6">
+        <div class="card-img col-md-6 mt-2" style="display: flex; align-items: center; justify-content: center;">
           {% include figure.html path=project.img alt="project thumbnail" %}
         </div>
-        <div class="col-md-6">
+        <!-- FORCED TEXT WRAPPER COLUMN TO ALIGN CENTERED -->
+        <div class="col-md-6" style="display: flex; align-items: center; justify-content: center;">
         {%- else -%}
         <div class="col-md-12">
         {%- endif -%}
-          <div class="card-body">
+          <!-- CONTAINER KEEPS NORMAL WIDTH BUT INHERITS VERTICAL FLEX CENTER -->
+          <div class="card-body" style="width: 100%; padding: 1.25rem;">
             <h3 class="card-title text">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
-            <div class="row ml-1 mr-1 p-0">
+            <div class="row ml-1 mr-1 p-0 align-items-center">
               {%- if project.github -%}
               <div class="github-icon">
                 <div class="icon" data-toggle="tooltip" title="Code Repository">
